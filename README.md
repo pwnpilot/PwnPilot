@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi 👋, I'm Abhishek Kumar Singh
 
-<!--
-**pwnpilot/PwnPilot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Licensed Penetration Tester (LPT Master) | Cybersecurity Consultant | VAPT Engineer
 
-Here are some ideas to get you started:
+🔹 3+ Years of Experience in Penetration Testing, VAPT, SOC Operations, and Incident Response
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔹 Specializing in:
+
+* Web Application Penetration Testing
+
+* API Security Testing
+
+* Active Directory Assessments
+
+* Network Penetration Testing
+
+**Certifications:**
+
+* LPT Master
+* CPENT
+* CEH
+* CND
+* CCT
+
+## Featured Projects
+
+* PwnScanner
+
+* Binary Secret Hunter
+
+* PortSwigger Labs Writeups
+
+## Tools & Technologies
+
+Burp Suite • Nmap • Metasploit • BloodHound • Impacket • Nessus • Linux • Python
+
+## Connect With Me
+
+* LinkedIn: <http://www.linkedin.com/in/abhishek-kumar-singh-142129241>
+* Email: <pwnpilots@gmail.com>
+
