@@ -1,6 +1,6 @@
 # Hi 👋, I'm Abhishek Kumar Singh
 
-### Licensed Penetration Tester (LPT Master) | Cybersecurity Consultant | VAPT Engineer
+### Licensed Penetration Tester (LPT Master) | PENETRATION TESTER
 
 🔹 3+ Years of Experience in Penetration Testing, VAPT, SOC Operations, and Incident Response
 
