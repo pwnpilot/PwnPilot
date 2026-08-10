@@ -1,4 +1,5 @@
-# Hi 👋, I'm Abhishek Kumar Singh
+# Hi <img width="66" height="59" alt="image" src="https://github.com/user-attachments/assets/ec5b4206-b8cf-41f2-b9b9-f5bbaa61a3fc" />
+, I'm Abhishek Kumar Singh
 
 ### Licensed Penetration Tester (LPT Master) | PENETRATION TESTER
 
