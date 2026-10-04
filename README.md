@@ -2,7 +2,7 @@
 
 ### Licensed Penetration Tester (LPT Master) | PENETRATION TESTER
 
-🔹 3+ Years of Experience in Penetration Testing, VAPT, SOC Operations, and Incident Response
+🔹 5+ Years of Experience in Penetration Testing, VAPT, SOC Operations, and Incident Response
 
 🔹 Specializing in:
 
